@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <string name="Java">Java</string>
+    <string name="Python">Python</string>
+    <string name="C">C++</string>
+</resources>

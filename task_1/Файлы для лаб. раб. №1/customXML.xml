@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+    <book>
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <year>1869</year>
+    </book>
+    <book>
+        <title>Мы</title>
+        <author>Евгений Замятин</author>
+        <year>1920</year>
+    </book>
+    <book>
+        <title>Анна Каренина</title>
+        <author>Лев Толстой</author>
+        <year>1877</year>
+    </book>
+    <book>
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <year>1967</year>
+    </book>
+    <book>
+        <title>Братья Карамазовы</title>
+        <author>Федор Достоевский</author>
+        <year>1880</year>
+    </book>
+    <book>
+        <title>Евгений Онегин</title>
+        <author>Александр Пушкин</author>
+        <year>1833</year>
+    </book>
+    <book>
+        <title>Мёртвые души</title>
+        <author>Николай Гоголь</author>
+        <year>1842</year>
+    </book>
+    <book>
+        <title>Идиот</title>
+        <author>Федор Достоевский</author>
+        <year>1869</year>
+    </book>
+    <book>
+        <title>Отцы и дети</title>
+        <author>Иван Тургенев</author>
+        <year>1862</year>
+    </book>
+    <book>
+        <title>Преступление и наказание</title>
+        <author>Федор Достоевский</author>
+        <year>1866</year>
+    </book>
+</bookstore>

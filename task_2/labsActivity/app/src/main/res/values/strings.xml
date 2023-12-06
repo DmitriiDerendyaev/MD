@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">labsActivity</string>
+    <string name="button1">Не быть!</string>
+    <string name="button2">Быть!</string>
+    <string name="textView1">Быть или не быть?!</string>
+    <string name="textView2">Вот в чем вопрос!</string>
+    <string name="textView3">Но кто из них Джульетта, кто Ромео?</string>
+
+    <string name="button3">Ромео</string>
+    <string name="button4">Джульетта</string>
+</resources>
